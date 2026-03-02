@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I'm coding since 2025<br>📚 I'm currently learning Python for Data Science and <br>🎯 Goals: 
+<p align="left">✨ I'm coding since 2025<br>📚 I'm currently learning Python for Data Science and Artificial Intelligence<br>🎯 Goals: 
 
   - Contributing to projects that solve real-world problems at a global scale.
 
