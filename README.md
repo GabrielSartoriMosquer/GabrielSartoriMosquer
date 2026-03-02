@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<!--
-**GabrielSartoriMosquer/GabrielSartoriMosquer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">My name is Gabriel Sartori Mosquer. I'm a Data Science and Artificial Intelligence student, from Florianópolis - SC, BRAZIL</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ I'm coding since 2025<br>📚 I'm currently learning Python for Data Science and <br>🎯 Goals: 
+
+  - Contributing to projects that solve real-world problems at a global scale.
+
+- Building tools to automate my tedious tasks, freeing up more time to... build more tools.
+
+- Architecting solutions that balance high technical performance with a user experience so seamless that the technology becomes invisible.
+
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+</div>
+
+###
